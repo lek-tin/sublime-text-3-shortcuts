@@ -14,6 +14,14 @@ Inherited from [Sublime Text Tutorial by LearnWebCode](https://www.youtube.com/p
 * Mac: ```Cmd + shift + V```
 * Windows: ```Ctrl + shift + V```
 
+### Delete from cursor to end of line
+* Mac: ⌘ + K, ⌘ + K
+* Windows: Ctrl + KK
+
+### Delete from cursor to start of line
+* Mac: ⌘ + K + ⌫	
+* Windows: Ctrl + K + ⌫
+
 ##2. Emmet
 
 ### Wrap with Emmet
