@@ -22,6 +22,10 @@ Inherited from [Sublime Text Tutorial by LearnWebCode](https://www.youtube.com/p
 * Mac: ⌘ + K + ⌫	
 * Windows: Ctrl + K + ⌫
 
+### Split selection to lines
+* Mac: ⌘ + Shift + L
+* Windows: Ctrl + Shift + L
+
 ##2. Emmet
 
 ### Wrap with Emmet
